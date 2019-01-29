@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <title>El-Basma-Specialized-Hospital</title>
+            <link rel="stylesheet" href="file.css"/>
+            <script src="file.js"></script>
+        </head>
+        <body>
+           <div>
+             <header class="main">
+                <header>
+                    <h1>„” ‘›Ì «·»”„… «· Œ’’Ì</h1>
+                    <img src="file:///D:/Logo/50706009_2165712503505803_1364717779470516224_n.png">
+                    
+                </header>
+                <nav>
+                    <img src="file:///D:/Logo/Originals/capture-20190128-205050.png">
+                    <img src="file:///D:/Logo/output/Schools1_25.png" style="position: relative;top: 133px;   left: -32%;   width: 32%;;">
+                </nav>
+                <main>
+                    <p>Àﬁ ﬂ„ √„«‰…</p>
+                </main>
+                     
+                <article>
+                    <img src="file:///D:/Logo/Originals/capture-20190128-205050.png">
+                    <img src="file:///D:/Logo/output/%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%86%D9%871.jpg" style="position: relative;top: -346px;left: 3%;width: 25%;;">
+                </article>
+                <footer>
+                    <h1><b><i>«·⁄‰Ê«‰/</i></b>„‰Ê› ‘«—⁄ ⁄Ì«œ… √Œ— ”Ê— «·„Õﬂ„…</h1>
+                    <h1><b><i>«· ·Ì›Ê‰/</i></b>01061011332</h1>
+                    <span>Eng/Esraa Mahmoud</span>
+
+                </footer>
+                
+             </header>
+           </div>
+          
+        
+      
+          
+         
+      
+        
+            
+          
+        </body>
+    </html>
+
+
+
+div
+{
+  width: 94%;
+    height: 425px;
+    background-color: #cccccc12;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+}
+.main
+{
+    width: 100%;
+    height: 303px;
+    background-color: #048bf7;
+    
+}
+.main header
+{
+  width: 34%;
+    height: 200px;
+    background-color: #075ca0;
+    float: right;
+    border-bottom-left-radius: 122%;
+  
+}
+.main header h1
+{
+  color: white;
+    font-size: 30px;
+    font-style: italic;
+    transform: skew(21deg) rotate(-18deg);
+    position: relative;
+    top: 28px;
+    left: 30%;
+}
+.main header img
+{
+      border-radius: 50%;
+    width: 30%;
+    position: relative;
+    top: -67px;
+    right: 192%;
+}
+nav img
+{
+   border-radius: 50%;
+    width: 32%;
+    position: relative;
+    top: 123px;
+
+}
+main p
+{
+  position: relative;
+   top: -158px;
+    left: 46%;
+    color: white;
+    font-size: 73px;
+    font-style: italic;
+    letter-spacing: 3px;
+    transform: skew(26deg) rotate(15deg);
+}
+article img
+{
+      position: relative;
+    top: -348px;
+    left: 28%;
+    border-radius: 50%;
+    width: 25%;
+}
+footer
+{
+  position: relative;
+    top: -459px;
+    left: 57%;
+    color: #0b4e84;
+}
+footer span
+{
+  position: relative;
+    top: -26px;
+    left: -57%;
+    font-style: italic;
+    font-family: cursive;
+}
+ 
